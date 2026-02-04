@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+.box {
+    width: 80%;
+    height: 500px;
+    margin: 20px auto;
+    padding: 60px;
+    border: 5px solid black;
+    background-image: url("../images/nature.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+.box h1 {
+    font-size: 36px;
+    color: red;
+    margin-bottom: 20px;
+}
+.box p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 600px;
+}
+
+
+
+
+
+
