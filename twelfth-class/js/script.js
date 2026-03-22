@@ -13,8 +13,14 @@ var a = 4;
 if (true) {
     var a = 5; 
 }
+console.log(a); 
 
-
+let a = 5;
+if (true) {
+    console.log(a);
+    let a = 7;
+    console.log(a); 
+}
 console.log(a);
 
 let a1 = 5;
