@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#textBox {
+  width: 300px;
+  margin: 0 auto 30px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: lightgray;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#redBtn {
+  background-color: red;
+  color: white;
+}
+
+#yellowBtn {
+  background-color: yellow;
+}
+
+#blueBtn {
+  background-color: blue;
+  color: white;
+}
